@@ -261,7 +261,7 @@ The Yahoo App Password can be revoked anytime from Yahoo security settings witho
 
 ## About
 
-Built by [Novianto](https://github.com/snovianto-golf) as a hands-on prototype while studying AI and LLM applications. The goal was to build something practical that solves a real problem, not just a tutorial project.
+Built by [Novianto](https://github.com/snovianto-codes) as a hands-on prototype while studying AI and LLM applications. The goal was to build something practical that solves a real problem, not just a tutorial project.
 
 ---
 
